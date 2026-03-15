@@ -1,4 +1,4 @@
-<!-- banner — swap this URL with a self-hosted image or a shields.io badge -->
+<!-- banner swap this URL with a self-hosted image or a shields.io badge -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=knowledge+should+be+free.;built+by+no+one.;for+everyone." />
 </p>
@@ -14,7 +14,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
-> *"Knowledge should be free — built by no one, owned by no one, for everyone."*
+> *"Knowledge should be free built by no one, owned by no one, for everyone."*
 
 ---
 
@@ -31,7 +31,7 @@ Fork it. Ship it. Break it. Fix it. Don't ask permission.
 
 | repo | description | lang | status |
 |------|-------------|------|--------|
-| [VeritasChain](https://github.com/AnonymousCoderDev/VeritasChain) | Decentralized truth verification — no gatekeepers | JS | active |
+| [VeritasChain](https://github.com/AnonymousCoderDev/VeritasChain) | Decentralized truth verification  no gatekeepers | JS | active |
 | [Archon](https://github.com/AnonymousCoderDev/Archon) | Autonomous orchestration engine | Python | active |
 
 ---
@@ -53,7 +53,7 @@ If it's here, it's free. Permanently.
 
 - **Matrix**: `@anon:matrix.org` *(replace with your handle)*
 - **PGP**: `[your key fingerprint]`
-- Issues only — no DMs, no Discord
+- Issues only  no DMs, no Discord
 
 ---
 
