@@ -31,8 +31,8 @@ Fork it. Ship it. Break it. Fix it. Don't ask permission.
 
 | repo | description | lang | status |
 |------|-------------|------|--------|
-| [VeritasChain](https://github.com/AnonymousCoderDev/VeritasChain) | Decentralized truth verification  no gatekeepers | JS | active |
-| [Archon](https://github.com/AnonymousCoderDev/Archon) | Autonomous orchestration engine | Python | active |
+| [VeritasChain](https://github.com/AnonymousCoderDev/VeritasChain) | Decentralized Identiry Validator and Preserver no gatekeepers | JS | active |
+| [Archon](https://github.com/AnonymousCoderDev/Archon) | Disater Managment Sidecar | Python | active |
 
 ---
 
