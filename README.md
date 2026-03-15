@@ -31,7 +31,7 @@ Fork it. Ship it. Break it. Fix it. Don't ask permission.
 
 | repo | description | lang | status |
 |------|-------------|------|--------|
-| [VeritasChain](https://github.com/AnonymousCoderDev/VeritasChain) | Decentralized Identiry Validator and Preserver no gatekeepers | JS | active |
+| [VeritasChain](https://github.com/AnonymousCoderDev/VeritasChain) | Decentralized Identiry Validator and Preserver| JS | active |
 | [Archon](https://github.com/AnonymousCoderDev/Archon) | Disater Managment Sidecar | Python | active |
 
 ---
@@ -46,14 +46,6 @@ Fork it. Ship it. Break it. Fix it. Don't ask permission.
 
 No paywalls. No SaaS upsells. No "open core" nonsense.  
 If it's here, it's free. Permanently.
-
----
-
-### :: contact
-
-- **Matrix**: `@anon:matrix.org` *(replace with your handle)*
-- **PGP**: `[your key fingerprint]`
-- Issues only  no DMs, no Discord
 
 ---
 
