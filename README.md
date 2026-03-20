@@ -97,7 +97,7 @@ If it's here, it's free. Permanently.
 ### :: contact
 
 - **Blog**: [anonymouscoderdev.dev](https://anonymouscoderdev.dev)
-- **X**: [@AnonymousCoderDev](https://x.com/AnonymousCoderDev)
+- **X**: [@AnonymousCoderDev](https://x.com/AnonymousD3279)
 - **Matrix**: `@anon:matrix.org` *(replace with your handle)*
 - **PGP**: `[your key fingerprint]`
 - Issues only — no DMs, no Discord
